@@ -74,6 +74,8 @@ Mining Xelis is a rewarding process, especially if you have the right hardware a
 
 Happy mining!
 
+Disclaimer: XELIS IS NOT RESPONSIBLE FOR ANY THIRD PARTY MINING SOFTWARE OR MINING POOLS. AS ALWAYS USE AT YOUR OWN RISK.
+
 
 
 
