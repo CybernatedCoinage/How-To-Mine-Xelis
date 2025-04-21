@@ -5,7 +5,7 @@ Xelis is a decentralized blockchain that uses a unique Proof of Work (PoW) conse
 **Prerequisites: Before you start mining Xelis, you’ll need a few things:**
 
 A computer with either a CPU or GPU that meets the minimum requirements for mining.
-A wallet address to receive the XELIS tokens you mine. You can create a wallet here: Xelis Wallet.
+A wallet address to receive the XELIS tokens you mine. You can create a wallet here: https://xelis.org/resources
 Third-party mining software (listed below).
 Either a solo mining node or a mining pool to connect to.
 
